@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model weights
+*.pt
+
+# Video files & outputs
+*.mp4
+*.avi
+*.mkv
+output/
+
+# Data outputs
+*.csv
+spots.json
+
+# Environment
+.env
+.venv
+env/
+venv/
+.conda-env/

@@ -1,0 +1,4 @@
+ultralytics
+opencv-python
+numpy
+# install PyTorch with CUDA from https://pytorch.org/get-started/locally/
